@@ -1,0 +1,8 @@
+[
+    {"name": "Maxwell's Diner", "cost": 40, "items": 5, "distance": 3},
+    {"name": "The Red Panda", "cost": 25, "items": 6, "distance": 1},
+    {"name": "Velvet Vineyard", "cost": 64, "items": 4, "distance": 14},
+    {"name": "Sushi House", "cost": 19, "items": 2, "distance": 6},
+    {"name": "Patty King", "cost": 14, "items": 3, "distance": 23},
+    {"name": "Taco Haven", "cost": 8, "items": 2, "distance": 4}
+]
